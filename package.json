@@ -35,10 +35,10 @@
     "megogo"
   ],
   "readme": "ERROR: No README data found!",
-  "_id": "mag-app-megogo@1.0.0",
+  "_id": "megogo@1.0.0",
   "dist": {
     "shasum": "daafa1758ae9fdacea94a9845a2e2adaffe8c31a"
   },
-  "_from": "mag-app-megogo@",
+  "_from": "megogo@",
   "_resolved": "http://registry.npmjs.org/mag-app-megogo/-/mag-app-megogo-1.0.0.tgz"
 }
