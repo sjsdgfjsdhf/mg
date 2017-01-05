@@ -1,0 +1,14 @@
+{
+	"meta": {
+		"charset": "utf-8",
+		"project": "mag-app-megogo 1.0.0",
+		"language": "ru",
+		"plural": "(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)"
+	},
+	"data": {
+		"": {
+			"MEGOGO": "MEGOGO",
+			"MEGOGO is an online cinema with video content that has a total duration of 20 hours. A large part of the MEGOGO collection is available to users free of charge.": "В библиотеке есть широкий выбор полнометражных фильмов, мультфильмов, сериалов, шоу и концертов. Большая часть коллекции предоставляется бесплатно."
+		}
+	}
+}

@@ -1,0 +1,44 @@
+{
+  "name": "mag-app-megogo",
+  "version": "1.0.0",
+  "description": "MEGOGO is an online cinema with video content that has a total duration of 20 hours. A large part of the MEGOGO collection is available to users free of charge.",
+  "author": {
+    "name": "Infomir",
+    "email": "support@infomir.eu"
+  },
+  "dependencies": {
+    "mag-core": "^1.0.0"
+  },
+  "config": {
+    "type": "app",
+    "category": "apps",
+    "backgroundColor": "#171717",
+    "name": "MEGOGO",
+    "legacy": true,
+    "description": "MEGOGO is an online cinema with video content that has a total duration of 20 hours. A large part of the MEGOGO collection is available to users free of charge.",
+    "icons": {
+      "paths": {
+        "480": "img/480/",
+        "576": "img/576/",
+        "720": "img/720/",
+        "1080": "img/1080/"
+      },
+      "states": {
+        "normal": "normal.png",
+        "active": "active.png"
+      }
+    }
+  },
+  "keywords": [
+    "magsdk",
+    "stalker",
+    "megogo"
+  ],
+  "readme": "ERROR: No README data found!",
+  "_id": "mag-app-megogo@1.0.0",
+  "dist": {
+    "shasum": "daafa1758ae9fdacea94a9845a2e2adaffe8c31a"
+  },
+  "_from": "mag-app-megogo@",
+  "_resolved": "http://registry.npmjs.org/mag-app-megogo/-/mag-app-megogo-1.0.0.tgz"
+}

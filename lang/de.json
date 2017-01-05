@@ -1,0 +1,14 @@
+{
+	"meta": {
+		"charset": "utf-8",
+		"project": "mag-app-megogo 1.0.0",
+		"language": "de",
+		"plural": "(n != 1)"
+	},
+	"data": {
+		"": {
+			"MEGOGO": "MEGOGO",
+			"MEGOGO is an online cinema with video content that has a total duration of 20 hours. A large part of the MEGOGO collection is available to users free of charge.": "Das Online-Kino mit dem Videocontent von mehr als 20 000 Stunden. Die Videothek hat die breite Vielzahl an Spielfilmen, Zeichentrickfilmen, Serien, Programmen und Konzerten. Ein großer Teil der Sammlung von MEGOGO ist für die Nutzer kostenlos."
+		}
+	}
+}
